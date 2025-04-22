@@ -1,0 +1,45 @@
+
+#******************************************a
+# .gitignore
+# Werner Haberer
+# 18.04.2025
+#******************************************a
+
+# List of files to be ignored by GitHub
+
+# This file itself
+#.gitignore
+
+# Backup Files
+*.bac
+*.bak
+
+# Text Files
+*.txt
+
+# Windows Files
+ma.bat
+pp.bat
+pp_*.*
+
+# test C Files
+0001_Vorlagen_C.c
+*TI_EV_00_MINI*.c 
+*TI_EV_00_TEST*.c
+
+# Compiled Firmware Files
+*.axf
+*.bin
+*.d
+*.o
+
+# Compiled TivaWare Libraries
+/Firmware/TivaWare/*/driverlib/ccs/
+/Firmware/TivaWare/*/driverlib/ewarm/
+/Firmware/TivaWare/*/driverlib/gcc/
+/Firmware/TivaWare/*/driverlib/rvmdk/
+/Firmware/TivaWare/*/grlib/ccs/
+/Firmware/TivaWare/*/grlib/ewarm/
+/Firmware/TivaWare/*/grlib/gcc/
+/Firmware/TivaWare/*/grlib/rvmdk/
+
