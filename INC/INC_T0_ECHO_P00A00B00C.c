@@ -1,0 +1,1235 @@
+            
+//******************************************a
+// INC_T0_ECHO_P00A00B00C.c
+//******************************************a
+// INC_T0_ECHO_OR..IGINAL.c
+
+// inc_File  : Is been included in the MAIN Loop
+// no RET or JMP necessary !
+
+// Edit ONLY the  O R I G I N A L   File  !!!
+//
+//     ***    *   *   *      *   *
+//    *   *   **  *   *       * *
+//    *   *   * * *   *        *
+//    *   *   *  **   *        *
+//     ***    *   *   *****    *
+//
+// The word OR..IGINAL will be replaced by the nummer x (or the Name)
+
+#ifdef NO //DOKU
+ INC_File : Is been included in the source code
+#endif //(NO //DOKU)
+
+// 00 Echo Begin
+#pragma weh_all3 "File:      INC_T0_ECHO_P00A00B00C.c \n"
+
+//***********************************************d
+
+//********************************j
+// Echoes
+
+#pragma weh_all3 "// *** T0INT States HERE :   (depends on Counter and Dividers)\n"
+#pragma weh_all3 "// The First State ist on Top (the higher one) \n"
+#pragma weh_all3 "// The Last  State ist 00 -> Load Default Value \n"
+#pragma weh_all3 "\n"
+
+// Test if T0INTA_P00A00B00Cxx_HERE
+
+#undef KLAPPE0
+
+#ifdef T0INTA_P00A00B00C50_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C50_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C49_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C49_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C48_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C48_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C47_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C47_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C46_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C46_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C45_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C45_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C44_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C44_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C43_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C43_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C42_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C42_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C41_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C41_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C40_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C40_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C39_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C39_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C38_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C38_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C37_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C37_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C36_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C36_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C35_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C35_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C34_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C34_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C33_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C33_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C32_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C32_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C31_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C31_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C30_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C30_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C29_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C29_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C28_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C28_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C27_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C27_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C26_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C26_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C25_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C25_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C24_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C24_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C23_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C23_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C22_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C22_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C21_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C21_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C20_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C20_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C19_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C19_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C18_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C18_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C17_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C17_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C16_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C16_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C15_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C15_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C14_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C14_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C13_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C13_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C12_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C12_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C11_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C11_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C10_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C10_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C09_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C09_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C08_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C08_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C07_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C07_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C06_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C06_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C05_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C05_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C04_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C04_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C03_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C03_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C02_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C02_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C01_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C01_HERE\n"
+#ifndef T0INTA_CP00A00B00C_HERE
+#define T0INTA_CP00A00B00C_HERE
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C00_HERE
+#pragma weh_all3 "T0INTA_P00A00B00C00_HERE  Load Counter\n"
+//#ifndef T0INTA_CP00A00B00C_HERE     not !
+//#define T0INTA_CP00A00B00C_HERE
+//#endif
+#endif
+
+#undef KLAPPE1
+
+#pragma weh_all3 "\n"
+#pragma weh_all3 "// *** T0INT States ON   :   (depends on User Project Functions)\n"
+#pragma weh_all3 "\n"
+
+// Test if T0INTA_P00A00B00Cxx_ON
+#undef KLAPPE0
+
+#ifdef T0INTA_P00A00B00C50_ON
+#pragma weh_all3 "T0INTA_P00A00B00C50_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C49_ON
+#pragma weh_all3 "T0INTA_P00A00B00C49_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C48_ON
+#pragma weh_all3 "T0INTA_P00A00B00C48_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C47_ON
+#pragma weh_all3 "T0INTA_P00A00B00C47_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C46_ON
+#pragma weh_all3 "T0INTA_P00A00B00C46_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C45_ON
+#pragma weh_all3 "T0INTA_P00A00B00C45_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C44_ON
+#pragma weh_all3 "T0INTA_P00A00B00C44_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C43_ON
+#pragma weh_all3 "T0INTA_P00A00B00C43_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C42_ON
+#pragma weh_all3 "T0INTA_P00A00B00C42_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C41_ON
+#pragma weh_all3 "T0INTA_P00A00B00C41_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C40_ON
+#pragma weh_all3 "T0INTA_P00A00B00C40_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C39_ON
+#pragma weh_all3 "T0INTA_P00A00B00C39_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C38_ON
+#pragma weh_all3 "T0INTA_P00A00B00C38_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C37_ON
+#pragma weh_all3 "T0INTA_P00A00B00C37_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C36_ON
+#pragma weh_all3 "T0INTA_P00A00B00C36_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C35_ON
+#pragma weh_all3 "T0INTA_P00A00B00C35_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C34_ON
+#pragma weh_all3 "T0INTA_P00A00B00C34_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C33_ON
+#pragma weh_all3 "T0INTA_P00A00B00C33_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C32_ON
+#pragma weh_all3 "T0INTA_P00A00B00C32_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C31_ON
+#pragma weh_all3 "T0INTA_P00A00B00C31_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C30_ON
+#pragma weh_all3 "T0INTA_P00A00B00C30_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C29_ON
+#pragma weh_all3 "T0INTA_P00A00B00C29_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C28_ON
+#pragma weh_all3 "T0INTA_P00A00B00C28_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C27_ON
+#pragma weh_all3 "T0INTA_P00A00B00C27_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C26_ON
+#pragma weh_all3 "T0INTA_P00A00B00C26_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C25_ON
+#pragma weh_all3 "T0INTA_P00A00B00C25_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C24_ON
+#pragma weh_all3 "T0INTA_P00A00B00C24_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C23_ON
+#pragma weh_all3 "T0INTA_P00A00B00C23_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C22_ON
+#pragma weh_all3 "T0INTA_P00A00B00C22_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C21_ON
+#pragma weh_all3 "T0INTA_P00A00B00C21_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C20_ON
+#pragma weh_all3 "T0INTA_P00A00B00C20_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C19_ON
+#pragma weh_all3 "T0INTA_P00A00B00C19_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C18_ON
+#pragma weh_all3 "T0INTA_P00A00B00C18_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C17_ON
+#pragma weh_all3 "T0INTA_P00A00B00C17_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C16_ON
+#pragma weh_all3 "T0INTA_P00A00B00C16_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C15_ON
+#pragma weh_all3 "T0INTA_P00A00B00C15_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C14_ON
+#pragma weh_all3 "T0INTA_P00A00B00C14_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C13_ON
+#pragma weh_all3 "T0INTA_P00A00B00C13_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C12_ON
+#pragma weh_all3 "T0INTA_P00A00B00C12_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C11_ON
+#pragma weh_all3 "T0INTA_P00A00B00C11_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C10_ON
+#pragma weh_all3 "T0INTA_P00A00B00C10_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C09_ON
+#pragma weh_all3 "T0INTA_P00A00B00C09_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C08_ON
+#pragma weh_all3 "T0INTA_P00A00B00C08_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C07_ON
+#pragma weh_all3 "T0INTA_P00A00B00C07_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C06_ON
+#pragma weh_all3 "T0INTA_P00A00B00C06_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C05_ON
+#pragma weh_all3 "T0INTA_P00A00B00C05_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C04_ON
+#pragma weh_all3 "T0INTA_P00A00B00C04_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C03_ON
+#pragma weh_all3 "T0INTA_P00A00B00C03_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C02_ON
+#pragma weh_all3 "T0INTA_P00A00B00C02_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C01_ON
+#pragma weh_all3 "T0INTA_P00A00B00C01_ON !\n"
+#ifndef T0INTA_CP00A00B00C_ON
+#define T0INTA_CP00A00B00C_ON
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C00_ON
+#pragma weh_all3 "T0INTA_P00A00B00C00_ON !  Load Counter\n"
+//#ifndef T0INTA_CP00A00B00C_ON     not !
+//#define T0INTA_CP00A00B00C_ON
+//#endif
+#endif
+
+#undef KLAPPE1
+
+#pragma weh_all3 "\n"
+#pragma weh_all3 "// *** T0INT States ERRORS : \n"
+#pragma weh_all3 "\n"
+
+// Test if ON but not HERE -> Error
+#undef KLAPPE0
+
+#ifdef T0INTA_P00A00B00C50_ON
+#ifndef T0INTA_P00A00B00C50_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C50_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C49_ON
+#ifndef T0INTA_P00A00B00C49_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C49_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C48_ON
+#ifndef T0INTA_P00A00B00C48_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C48_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C47_ON
+#ifndef T0INTA_P00A00B00C47_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C47_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C46_ON
+#ifndef T0INTA_P00A00B00C46_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C46_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C45_ON
+#ifndef T0INTA_P00A00B00C45_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C45_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C44_ON
+#ifndef T0INTA_P00A00B00C44_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C44_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C43_ON
+#ifndef T0INTA_P00A00B00C43_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C43_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C42_ON
+#ifndef T0INTA_P00A00B00C42_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C42_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C41_ON
+#ifndef T0INTA_P00A00B00C41_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C41_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C40_ON
+#ifndef T0INTA_P00A00B00C40_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C40_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C39_ON
+#ifndef T0INTA_P00A00B00C39_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C39_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C38_ON
+#ifndef T0INTA_P00A00B00C38_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C38_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C37_ON
+#ifndef T0INTA_P00A00B00C37_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C37_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C36_ON
+#ifndef T0INTA_P00A00B00C36_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C36_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C35_ON
+#ifndef T0INTA_P00A00B00C35_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C35_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C34_ON
+#ifndef T0INTA_P00A00B00C34_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C34_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C33_ON
+#ifndef T0INTA_P00A00B00C33_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C33_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C32_ON
+#ifndef T0INTA_P00A00B00C32_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C32_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C31_ON
+#ifndef T0INTA_P00A00B00C31_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C31_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C30_ON
+#ifndef T0INTA_P00A00B00C30_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C30_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C29_ON
+#ifndef T0INTA_P00A00B00C29_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C29_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C28_ON
+#ifndef T0INTA_P00A00B00C28_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C28_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C27_ON
+#ifndef T0INTA_P00A00B00C27_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C27_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C26_ON
+#ifndef T0INTA_P00A00B00C26_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C26_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C25_ON
+#ifndef T0INTA_P00A00B00C25_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C25_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C24_ON
+#ifndef T0INTA_P00A00B00C24_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C24_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C23_ON
+#ifndef T0INTA_P00A00B00C23_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C23_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C22_ON
+#ifndef T0INTA_P00A00B00C22_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C22_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C21_ON
+#ifndef T0INTA_P00A00B00C21_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C21_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C20_ON
+#ifndef T0INTA_P00A00B00C20_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C20_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C19_ON
+#ifndef T0INTA_P00A00B00C19_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C19_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C18_ON
+#ifndef T0INTA_P00A00B00C18_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C18_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C17_ON
+#ifndef T0INTA_P00A00B00C17_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C17_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C16_ON
+#ifndef T0INTA_P00A00B00C16_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C16_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C15_ON
+#ifndef T0INTA_P00A00B00C15_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C15_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C14_ON
+#ifndef T0INTA_P00A00B00C14_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C14_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C13_ON
+#ifndef T0INTA_P00A00B00C13_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C13_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C12_ON
+#ifndef T0INTA_P00A00B00C12_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C12_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C11_ON
+#ifndef T0INTA_P00A00B00C11_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C11_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C10_ON
+#ifndef T0INTA_P00A00B00C10_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C10_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C09_ON
+#ifndef T0INTA_P00A00B00C09_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C09_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C08_ON
+#ifndef T0INTA_P00A00B00C08_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C08_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C07_ON
+#ifndef T0INTA_P00A00B00C07_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C07_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C06_ON
+#ifndef T0INTA_P00A00B00C06_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C06_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C05_ON
+#ifndef T0INTA_P00A00B00C05_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C05_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C04_ON
+#ifndef T0INTA_P00A00B00C04_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C04_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C03_ON
+#ifndef T0INTA_P00A00B00C03_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C03_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C02_ON
+#ifndef T0INTA_P00A00B00C02_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C02_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C01_ON
+#ifndef T0INTA_P00A00B00C01_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C01_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#ifdef T0INTA_P00A00B00C00_ON
+#ifndef T0INTA_P00A00B00C00_HERE
+#pragma weh_all3 "ERROR !!! P00A00B00C00_ON is ON but NOT HERE !!! \n"
+#ifndef T0INTA_CP00A00B00C_ERROR
+#define T0INTA_CP00A00B00C_ERROR
+#endif
+#endif
+#endif
+
+#undef KLAPPE1
+
+#pragma weh_all3 "\n"
+#pragma weh_all3 "//******************************************a\n"
